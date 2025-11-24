@@ -24,6 +24,9 @@
 ## How To
 
 * [Introduction](how-to/introduction.md)
+* [How to participate in Points Campaign](how-to/how-to-participate-in-points-campaign.md)
+* [Get bfUSD and Stake in Horizon/Pulsar Pools](how-to/get-bfusd-and-stake-in-horizon-pulsar-pools.md)
+* [Unstake pbfUSD/hbfUSD and Redeem bfUSD to USDT](how-to/unstake-pbfusd-hbfusd-and-redeem-bfusd-to-usdt.md)
 * [Stake BTC on an EVM-Compatible Chain](how-to/stake-btc-on-an-evm-compatible-chain.md)
 * [Stake BTC on Bitcoin Network](how-to/stake-btc-on-bitcoin-network.md)
 * [Unstake bfBTC to EVM-Compatible Chain](how-to/unstake-bfbtc-to-evm-compatible-chain.md)
