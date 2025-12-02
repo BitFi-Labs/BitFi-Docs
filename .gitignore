@@ -1,1 +1,10 @@
-参考文档（不可推送）/
+node_modules
+.docusaurus
+build
+.cache-loader
+.env
+.env.local
+.env.production
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
